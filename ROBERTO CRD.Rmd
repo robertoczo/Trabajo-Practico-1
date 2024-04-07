@@ -1,0 +1,76 @@
+---
+title: "CV ROBERTO CARDOZO"
+author: "ROBERTO CARDOZO"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## CURRICULUM VITAE
+
+### DATOS PERSONALES 
+* Roberto Daniel Cardozo 
+* Tartagal-Salta
+* Tucuaman-540
+
+### Objetivos
+
+
+
+**Me considero una persona responsable, en busca de oportunidades que me permitan poner en practica  los conocimientos adquiridos durante mi formación académica así como también de nuevos desafíos que me lleven a crecer personal y profesionalmente**
+
+ 
+![Tecnico en Perforaciones](FOTO PERFIL.jpg){ width=20% }
+
+
+
+
+
+
+
+
+
+
+### Formacion 
+* **Tecnico Universitario en Perforaciones**
+
+* **Ingenieria en Perforaciones- En curso**
+
+
+## Cursos
+
+| Año | Cursos| 
+|:----:|:------|
+| 2023 | INTRODUCCIÓN A LA PROGRAMACIÓN EN PHYTON (Proyecto 1000 Programadores Salteños)| 
+| 2023 |"PREVENCIÓN DE RIESGOS EN EL TRABAJO CON ELECTRICIDAD" (MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL)|
+| 2023 | "PREVENCIÓN DE RIESGOS EN EL TRABAJO CON ELECTRICIDAD" (MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL)|
+|2022  |INTRODUCCIÓN A LA PROGRAMACIÓN EN JAVA (Proyecto 1000 Programadores Salteños)|
+
+
+
+
+
+### Experiencia Laboral
+
+| Año | Empresa | Puesto|
+|:-------|:------:|:---------:|
+| 2024 | Unsa| Ayundante Matematica |
+| 2023 | Mini Super virgen de Urkupiña | Repositor|
+| 2022-Actualidad|Profesor Particular |
+
+
+
+
+
+
+### Contacto
+
+- <robertocardo49@gmail.com>
+- cel ***3873413761***
+
+
+
+
